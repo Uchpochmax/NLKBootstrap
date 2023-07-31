@@ -1,0 +1,24 @@
+.card-text {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.btn {
+    margin-top: 16px;
+}
+.table {
+    margin-top: 32px;
+}
+.footer {
+    background-color: #F5F5F5;
+    margin-top: 32px;
+    margin-bottom: 0;
+}
+.footer_text {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+@media screen and (max-width: 320px) {
+    table {
+        overflow: scroll;
+    }  
+}
